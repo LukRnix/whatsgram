@@ -32,6 +32,7 @@ const App: Component = () => {
         <img src={logo} class={styles.logo} alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
+          WIr haben dinge angepasst
         </p>
         <a
           class={styles.link}
