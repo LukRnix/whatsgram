@@ -1,0 +1,6 @@
+{
+	"appId": "de.whatsgram.app",
+	"appName": "vite-template-solid",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

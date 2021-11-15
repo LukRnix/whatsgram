@@ -19,7 +19,9 @@
     "vite-plugin-solid": "^2.0.3"
   },
   "dependencies": {
+    "@capacitor/android": "^3.3.1",
     "@capacitor/core": "^3.3.1",
+    "@capacitor/ios": "^3.3.1",
     "prettier": "^2.4.1",
     "solid-js": "^1.1.3"
   }
