@@ -1,12 +1,11 @@
 import { Message } from "./message";
+import { UserSmallModel } from "./user";
 
 export type Group = {
     id: string;
     name: string;
-    members: {
-        userId: string;
-        role: admin;
-    }[]
+    description: string;
+    members: (UserSmallModel & {role: string})[]
     messages: Message[];
     picture: string;
 }
